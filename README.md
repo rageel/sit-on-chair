@@ -4,17 +4,19 @@ Website project based on a photo for a furniture store.
 
 Functionalities:
 
-- Slider
-- Drop-down lists
-- Hover effect
-- Forms
-
+*   Slider
+*   Drop-down lists
+*   Hover effect
+*   Forms
+*   Choosing products and calculating final price
 
 Technologies:
 
-- HTML, CSS, JavaScript
+*   HTML, CSS, JavaScript
 
 Future task:
 
-- RWD
+*   RWD
 
+Live Demo:
+https://rageel.github.io/sit-on-chair/
